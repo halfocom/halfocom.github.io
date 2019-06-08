@@ -1,2 +1,2 @@
 # halfocom.github.io
-My personal home page at github pages
+My personal home page at Github Pages
